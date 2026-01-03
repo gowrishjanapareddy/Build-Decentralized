@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Build Decentralized Exchange with Automated Market Maker Protocol Project
 
@@ -173,3 +174,6 @@ Through this project I gained:
 This project demonstrates a complete, secure, and mathematically accurate DEX AMM system inspired by Uniswap V2. It reflects strong understanding of blockchain engineering, decentralized finance mechanics, smart contract testing, and production‑grade deployment workflows.
 
 ---
+=======
+# Build-Decentralized
+>>>>>>> 3f7f2ee6f5df3c5d7aefc0a54b48c0bf7d68e101
